@@ -1,4 +1,4 @@
-#**FLOWER CLASSIFICATION**
+# **Flower Classification**
 ## Dataset
 The data is obtained from ![Kaggle](https://www.kaggle.com/datasets/mansi0123/floral-diversity-a-collection-of-beautiful-blooms?select=flower_photos). There are 5 different class (Daisy, Dandelion, Roses, Sunflowers and Tulips). Additionally, there are 3671 images with each class having around 600 to 900 pictures.
 
